@@ -1,0 +1,127 @@
+[[PThreadPool]]
+arch = "aarch64"
+git-tree-sha1 = "0c151f5f335970c856480b6c62ba89a746487486"
+os = "macos"
+
+    [[PThreadPool.download]]
+    sha256 = "c22a22e8a6d740e3acba3b98682849db963ba5b24a879e3c19159b8d034ec9e1"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.aarch64-apple-darwin.tar.gz"
+[[PThreadPool]]
+arch = "aarch64"
+git-tree-sha1 = "3583466b697feae6eabc1e03a95471b07103a863"
+libc = "glibc"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "29b4bb166976d0e324606a2d38950b04c63e3a97e9fdaf856c62247a9357d185"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.aarch64-linux-gnu.tar.gz"
+[[PThreadPool]]
+arch = "aarch64"
+git-tree-sha1 = "2ef0d8308679175106e5817bef65e514b3409193"
+libc = "musl"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "17e18c517b420484a38a338c50d01fc5078a851755f5155edc1765ea77ea03ac"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.aarch64-linux-musl.tar.gz"
+[[PThreadPool]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c541d6b7bc6a311d3974a1e01da8ae12ee95739a"
+libc = "glibc"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "bdc658cf298aec873d17dcda48014f8da607d4fda0cedbced66b004f5e5d9692"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.armv6l-linux-gnueabihf.tar.gz"
+[[PThreadPool]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "48f8dcb91bf35ffaf9dc496a1a866021c1831df5"
+libc = "musl"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "1e270fc384ede954085a1e5254995714535524165589a0e26d478fc12e6de3c6"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.armv6l-linux-musleabihf.tar.gz"
+[[PThreadPool]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b0548a397aeb8b6096be1bda96047d4a184ac6f1"
+libc = "glibc"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "7921a17b2ccb5d6734f0da44d637b3d03997af6924544f43074aff0f788629d7"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.armv7l-linux-gnueabihf.tar.gz"
+[[PThreadPool]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5b64060d0c5cb610ea43e32d213415876600ad8d"
+libc = "musl"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "9f84b8c7da5805313df8fc041e45630344ce78ea8bc6e6f83a00b36df3fbe31a"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.armv7l-linux-musleabihf.tar.gz"
+[[PThreadPool]]
+arch = "i686"
+git-tree-sha1 = "8d1375f02c17b2bc6e8156ce8d8aa1e531cbca5f"
+libc = "glibc"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "8798db62833569768d1e3eee4413cc540c117d66c4d4ea28f307d38d50a4ef3e"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.i686-linux-gnu.tar.gz"
+[[PThreadPool]]
+arch = "i686"
+git-tree-sha1 = "4ece027134953929cf83ebfc71d561a3db55a8d1"
+libc = "musl"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "bb2525c1b78d0b5c801638fd85e5cb7d9da8496e3621070fb0f84f408f0738f9"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.i686-linux-musl.tar.gz"
+[[PThreadPool]]
+arch = "powerpc64le"
+git-tree-sha1 = "9e7b8ecae4352e61e660c606afcbd343033588ae"
+libc = "glibc"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "63c9596afd83d4c8f34a7bf3e2fcffd988ca6281469a32f343dcd7eb50734d61"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.powerpc64le-linux-gnu.tar.gz"
+[[PThreadPool]]
+arch = "x86_64"
+git-tree-sha1 = "bd8c92511058a61ff423bfee0d0c55a22c55ba57"
+os = "macos"
+
+    [[PThreadPool.download]]
+    sha256 = "43cdad10fe46e57fa7f564070bcc525f7eea5ec1e93d69866ae78137fadec1a9"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.x86_64-apple-darwin.tar.gz"
+[[PThreadPool]]
+arch = "x86_64"
+git-tree-sha1 = "5888460cb6565111e617a7fa2f1fa1ab275d8660"
+libc = "glibc"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "a47dc203d3fac58326f6e5c61d34cc26deb902d0fdb24f1d4722284d42ec401d"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.x86_64-linux-gnu.tar.gz"
+[[PThreadPool]]
+arch = "x86_64"
+git-tree-sha1 = "6a2bd6438d6d22b94329a563d0c28cd173d4487d"
+libc = "musl"
+os = "linux"
+
+    [[PThreadPool.download]]
+    sha256 = "3abfe487de10b695d76126e4416c535b55927b3585a1cdddff1469282ede1612"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.x86_64-linux-musl.tar.gz"
+[[PThreadPool]]
+arch = "x86_64"
+git-tree-sha1 = "f3a559ab0cd47b95eac4634ee57f8b461c520d27"
+os = "freebsd"
+
+    [[PThreadPool.download]]
+    sha256 = "eca80d048ceba019dfac4cccba62fce369879ef70620440c0ab390139db93e25"
+    url = "https://github.com/JuliaBinaryWrappers/PThreadPool_jll.jl/releases/download/PThreadPool-v0.0.20191029+0/PThreadPool.v0.0.20191029.x86_64-unknown-freebsd.tar.gz"
